@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="translator-note.xhtml">
+		<ignore>
+			<code>s-044</code>
+			<reason>Semantic is for title of the hymn.</reason>
+		</ignore>
+	</file>
+	<file path="postscript.xhtml">
+		<ignore>
+			<code>c-015</code>
+			<reason>Text is indented in source scans.</reason>
+		</ignore>
+	</file>
+	<file path="local.css">
+		<ignore>
+			<code>c-008</code>
+			<reason>No other selector available.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
