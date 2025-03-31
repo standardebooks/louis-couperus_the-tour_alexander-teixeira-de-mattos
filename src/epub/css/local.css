@@ -44,7 +44,12 @@ abbr[epub|type~="se:era"]{
 	margin-top: 1em;
 }
 
-.inscription{
-	font-variant: all-caps;
+#chapter-14 blockquote{
+	text-transform: uppercase;
 	text-align: center;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
 }
