@@ -45,8 +45,8 @@ abbr[epub|type~="se:era"]{
 }
 
 #chapter-14 blockquote{
-	text-transform: uppercase;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 p span.i1{
