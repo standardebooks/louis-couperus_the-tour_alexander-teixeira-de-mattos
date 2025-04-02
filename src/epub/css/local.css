@@ -15,6 +15,10 @@ footer{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:letter"] header + p{
+	margin-top: 0;
+}
+
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
@@ -44,12 +48,12 @@ abbr[epub|type~="se:era"]{
 	margin-top: 1em;
 }
 
-#chapter-14 blockquote{
-	text-align: center;
-	text-transform: uppercase;
-}
-
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
+}
+
+#chapter-14 blockquote{
+	text-align: center;
+	text-transform: uppercase;
 }
