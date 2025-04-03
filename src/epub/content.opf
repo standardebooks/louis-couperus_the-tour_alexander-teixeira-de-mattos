@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/louis-couperus/the-tour/alexander-teixeira-de-mattos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-03T20:06:27Z</dc:date>
+		<meta property="dcterms:modified">2025-04-03T20:06:27Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,19 +39,18 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008102999</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A roman noble man travels through Egypt mourning and searching for a lost love.</dc:description>
+		<dc:description id="description">A Roman nobleman travels through Egypt in search of a lost love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Ancient Egypt serves as the backdrop for the &lt;i&gt;The Tour&lt;/i&gt;. The immensely wealthy Roman Publuis Sabinus Lucius embarks on a journey through Egypt, traveling up the Nile from Alexandria to Memphis, the Sphinx and the pyramids of Giza, and eventually beyond the cataracts to Ethiopia. His large entourage includes, among others, his uncle Catullus, who lives off his nephew’s fortune; his slave and tutor Thrasyllus; the young African slave Tarra; and the Greek slave Cora. Cora is secretly in love with Lucius, but he does not return her affection. The group is guided through Egypt by the travel guides Ghizla and Kaleb, who never miss an opportunity to skillfully fleece their foreign guests.&lt;/p&gt;
-			&lt;p&gt;The reason for Lucius’ journey is his attempt to cope with the loss of his beloved, the Greek slave Ilia. Ilia has suddenly disappeared and Lucius suspects she was kidnapped by pirates. In reality, she has fled with a sailor she loved, though no one dares to tell Lucius the truth. Through conversations with oracles, priests of ancient egyptian rituals, mystics, and hermits, he tries to uncover what happened to Ilia.&lt;/p&gt;
-			&lt;p&gt;The mysterious and supernatural elements in the story highlight how, even for the characters, Egypt was already an ancient civilization in decline. The subtitle &lt;i&gt;A Story of Ancient Egypt&lt;/i&gt; can therefore be understood in two ways.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/louis-couperus"&gt;Louis Couperus&lt;/a&gt; first published the story as a serial in four installments in the magazine &lt;i&gt;Groot Nederland&lt;/i&gt; before releasing it as a novel in 1911. Couperus frequently used this method; his older novels were not selling well, and by publishing his work as a serial first, he could be paid twice for the same book.&lt;/p&gt;
-			&lt;p&gt;Couperus based his lavish descriptions of decadent ancient Egypt on the works of the classical historian Strabo. Although he had always wished to visit Egypt, he never actually did. &lt;i&gt;The Tour&lt;/i&gt; fits neatly with his other historical novels in which he explores ancient civilizations and themes of fate and decadence.&lt;/p&gt;
+			&lt;p&gt;In ancient Egypt, the immensely wealthy Roman Publuis Sabinus Lucius embarks on a journey through Egypt, traveling up the Nile from Alexandria to Memphis, past the Sphinx and the pyramids of Giza, and eventually beyond the cataracts to Ethiopia. His large entourage includes, among others, his uncle Catullus, who lives off his nephew’s fortune; his slave and tutor Thrasyllus; the young African slave Tarra; and the Greek slave Cora. Cora is secretly in love with Lucius, but he does not return her affection. The group is led through Egypt by the guides Ghizla and Kaleb, who never miss an opportunity to fleece their foreign guests.&lt;/p&gt;
+			&lt;p&gt;The reason for Lucius’ journey is his attempt to cope with the loss of his beloved, the Greek slave Ilia. Ilia has suddenly disappeared and Lucius suspects she was kidnapped by pirates. In reality, she has fled with a sailor she loved, though no one dares to tell Lucius the truth. Through conversations with oracles, Egyptian priests, mystics, and hermits, he tries to uncover what happened to Ilia.&lt;/p&gt;
+			&lt;p&gt;The mysterious and supernatural elements in the story highlight how, even in the age in which the novel is set, Egypt was already an ancient civilization in decline. &lt;a href="https://standardebooks.org/ebooks/louis-couperus"&gt;Couperus&lt;/a&gt; bases his lavish descriptions of decadent Egypt on the works of the classical historian Strabo. Although he had always wished to visit Egypt, he never actually did. &lt;i&gt;The Tour&lt;/i&gt; fits neatly with his other historical novels in which he explores ancient civilizations and themes of fate and decline.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Tour&lt;/i&gt; was first published as a serial in the magazine &lt;i&gt;Groot Nederland&lt;/i&gt; before it was published as a novel in 1911.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37497</dc:source>
 		<dc:source>https://archive.org/details/tourstoryofancie00couprich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">49320</meta>
+		<meta property="se:reading-ease.flesch">71.14</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tour</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/louis-couperus_the-tour_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author">Louis Couperus</dc:creator>
@@ -87,6 +86,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
