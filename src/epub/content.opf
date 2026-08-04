@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008102999</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Roman nobleman travels through Egypt in search of a lost love.</dc:abstract>
+		<meta property="schema:abstract">A Roman nobleman travels through Egypt in search of a lost love.</meta>
 		<dc:description>
 			&lt;p&gt;In ancient Egypt, the immensely wealthy Roman Publuis Sabinus Lucius embarks on a journey through Egypt, traveling up the Nile from Alexandria to Memphis, past the Sphinx and the pyramids of Giza, and eventually beyond the cataracts to Ethiopia. His large entourage includes, among others, his uncle Catullus, who lives off his nephew’s fortune; his slave and tutor Thrasyllus; the young African slave Tarra; and the Greek slave Cora. Cora is secretly in love with Lucius, but he does not return her affection. The group is led through Egypt by the guides Ghizla and Kaleb, who never miss an opportunity to fleece their foreign guests.&lt;/p&gt;
 			&lt;p&gt;The reason for Lucius’ journey is his attempt to cope with the loss of his beloved, the Greek slave Ilia. Ilia has suddenly disappeared and Lucius suspects she was kidnapped by pirates. In reality, she has fled with a sailor she loved, though no one dares to tell Lucius the truth. Through conversations with oracles, Egyptian priests, mystics, and hermits, he tries to uncover what happened to Ilia.&lt;/p&gt;
